@@ -14,8 +14,8 @@
 - Create a Login Page
 
 - Body 
-    NavBar
-    Route=/  => Feed
-    Route=/login  => Login
-    Route=/connetions => Connections
-    Router=/profile => Profile
+    - NavBar
+      - Route=/  => Feed
+      - Route=/login  => Login
+      - Route=/connetions => Connections
+      - Router=/profile => Profile
